@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html>
          <head>
             <title>titulo de la pagina</title>
@@ -26,30 +26,28 @@
            </style>
          </head>
     <body>
-      <h1>FUCHI COLEGIAL <img src="img fuchi/Screenshot_20250924_234249_WhatsApp.jpg" width="90" height="50"></h1>
+      <h1>FUCHI COLEGIAL <img src="D:\taller\FUCHI\img fuchi\Screenshot_20250924_234249_WhatsApp.jpg" width="90" height="50"></h1>
       <table border="10">
         <tr>
             <td rowspan="4">ROPA COLEGIAL PRIMARIA/SECUNDARIA</td>
             <td colspan="5">LO MAS VENDIDO DE FUCHI</td>
         </tr>
         <tr>
-            <td><img src="img fuchi/dsc_57351-8088ae69dacbecf93115812028839065-640-0.jpg" width="200" height="100"></td>
+            <td><img src="D:\taller\FUCHI\img fuchi\dsc_57351-8088ae69dacbecf93115812028839065-640-0.jpg" width="200" height="100"></td>
             <td>CHOMBA UNISEX</td>
             <td>TALLES S,M,L,XL,XXL</td>
             <td>$46000</td>
-            <td><img src="img fuchi/D_708170-MLA83130229711_032025-C.jpg"width="180" height="100"></td>
+            <td><img src="D:\taller\FUCHI\img fuchi\le-puppet-771-dc329870bd21bbbed516116950240941-1024-1024.jpg"width="180" height="100"></td>
         </tr>
         <tr>
-
-  <td><img src="img fuchi/pant-vestir-negro-65de27776f2d4e3dd517108545907189-1024-1024.png" width="200" height="100"></td>
+ <td><img src="D:\taller\FUCHI\img fuchi\pant-vestir-negro-65de27776f2d4e3dd517108545907189-1024-1024.png" width="200" height="100"></td>
             <td>PANTALON DE VESTIR</td>
             <td>TALLES 40,41,42..52</td>
             <td>$51000</td>e
-            <td><img src="img fuchi/le-puppet-771-dc329870bd21bbbed516116950240941-1024-1024.jpg"width="180" height="100"></td>
+            <td><img src="D:\taller\FUCHI\img fuchi\D_708170-MLA83130229711_032025-C.jpg"width="180" height="100"></td>
         </tr>
         <tr>
-
- <td><img src="img fuchi/F206F1-26032-AZUL_1.png" width="200" height="100"></td>
+ <td><img src="D:\taller\FUCHI\img fuchi\F206F1-26032-AZUL_1.png" width="200" height="100"></td>
             <td>CAMPERA UNISEX</td>
             <td>TALLES M,L,XL,XXL</td>
             <td>$43000</td>
@@ -57,7 +55,7 @@
         </tr>
          </footer> 
         <tr>
-             <video src="img fuchi/lv_0_20251024151124.mp4" 
+             <video src="D:\taller\FUCHI\img fuchi\lv_0_20251024151124.mp4" 
              autoplay 
              loop 
              muted 
@@ -83,20 +81,12 @@
              <div><h1>
              Síguenos en:</h1>
              <a href="https://facebook.com" target="_blank">
-                <img src="img fuchi/2021_Facebook_icon.svg.png" width="50">
+                <img src="D:\taller\FUCHI\img fuchi\2021_Facebook_icon.svg.png" width="50">
              </a>
              <a href="https://www.instagram.com/miakhalifa?igsh=BTR4Z3VKeHZr0HBq" target="_blank">
-                <img src="img fuchi/images (19).jpeg" width="50">
+                <img src="D:\taller\FUCHI\img fuchi\images (19).jpeg" width="50">
              </a>
         </div>
             </footer>
     </body>
-
 </html>
-
-
-
-
-
-
-
